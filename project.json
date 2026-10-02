@@ -1,0 +1,22 @@
+{
+  "overview": "A clean, modern single-page website for G Dental Clinic with soft colors, clinic information, services, reviews, and a WhatsApp booking button.",
+  "features": [
+    "Sticky header with smooth-scroll navigation and a WhatsApp Book Now button",
+    "Hero section with clinic name, tagline, and 4.9 star rating badge",
+    "About section with doctor profile and trust highlights",
+    "Services grid covering dentures, extraction, root canals, cleaning, fillings, and braces",
+    "Patient reviews section with testimonials",
+    "Hours and location with address, timings, and click-to-call",
+    "Appointment request form that saves requests and confirms on screen",
+    "Fully responsive layout for mobile and desktop"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "dental",
+    "clinic",
+    "healthcare",
+    "landing-page",
+    "whatsapp"
+  ],
+  "last_updated": "2026-10-02T02:24:43.067Z"
+}
